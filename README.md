@@ -1,8 +1,8 @@
 # Universidad de Guadalajara
-Centro Universitario de Ciencias Exactas e Ingenierías
-Ing. Biomédica
-Materia: Métodos biomédicos de IA
-Profesor: Daniel Farfán
+## Centro Universitario de Ciencias Exactas e Ingenierías
+### Ing. Biomédica
+#### Materia: Métodos biomédicos de IA
+ Profesor: Daniel Farfán
 
 # Caso Práctico 2
 ## Predicción de Tipos de Reacción Química usando Fingerprints Moleculares:
@@ -118,11 +118,6 @@ Los fingerprints permiten explorar la estructura química de las reacciones y ag
 En los notebooks, se muestracómo generar un atlas interactivo de reacciones para el conjunto Schneider 50k. El resultado final es similar a este Atlas Interactivo de Reacciones. **[interactive Reaction Atlas](https://rxn4chemistry.github.io/rxnfp//tmaps/tmap_ft_10k.html)**.
 
 En él encontrarás diferentes propiedades de reacciones destacadas en las distintas capas:
-
-<div style="text-align: center">
-<img src="nbs/images/tmap_properties.jpg" width="800" style="max-width: 800px">
-<p style="text-align: center;"> <b>Figure:</b> Reaction atlas of 50k data set with different properties highlighted. </p>
-</div>
 
 ## USPTO 1k TPL (conjunto de datos de clasificación de reacciones)
 
