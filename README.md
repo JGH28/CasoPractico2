@@ -3,6 +3,10 @@
 ### Ing. Biomédica
 #### Materia: Métodos biomédicos de IA
  Profesor: Daniel Farfán
+ ##### Integrantes del equipo:
+  * Héctor Manuel Godínez Lozano
+  * José de Jesús González Hernández
+  * Diana Romina Miranda Grijalva
 
 # Caso Práctico 2
 ## Predicción de Tipos de Reacción Química usando Fingerprints Moleculares:
